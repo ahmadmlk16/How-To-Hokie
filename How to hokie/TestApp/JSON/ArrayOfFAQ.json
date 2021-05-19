@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "question" : "What if I lose my ID?",
+        "answer" : "Losing an ID can be unfortunate as there are many important uses for it. In the case of a lost ID you should visit http://www.hokiepassport.vt.edu/ or call Hokie Passport Services (540-231-5121) or Campus Police (540-231-6411) to deactivate the lost card. Afterwards you can visit Hokie Passport Services at 100 Student Services Building to receive a replacement at a $25 fee"
+    },
+    {
+        "id" : 2,
+        "question" : "How do I get a Parking Pass?"
+        "answer" : "Students can view prices and requirements for parking passes at https://virginiatech.t2hosted.com/Account/Portal . Once they sign in they can pay for a parking pass as needed."
+    },
+    {
+        "id" : 3,
+        "question" : "Where do I go if I Need Medical Attention?"
+        "answer" : "Schiffert Student Center in zone 3 of the condensed map is the place students can go for medical attention. You can make an appointment at https://portal.healthcenter.vt.edu/home.aspx"
+    },
+    {
+        "id" : 4,
+        "question" : "How do I Learn of Job Opportunities on Campus?"
+        "answer" : "All students have access to a job search application known as Handshake. It can be accessed at https://vt.joinhandshake.com/student_onboardings/new and is useful for finding job opportunities on campus as well as the surrounding area."
+    },
+    {
+        "id" : 5,
+        "question" : "Where is the closest Airport?"
+        "answer" : "The closest airport to campus is the Roanoke Airport, with a 43 minute drive from campus and limited bus routes, getting to and from Roanoke and be quite expensive. In general, it is easiest to get a taxi or uber drive to campus from the airport or have a friend come pick you up. Additionally, because of the expensive travel cost to and from the airport, if you can’t get a bus, it is sometimes cheaper to fly into other VA airports, such as IAD or Richmond, and then bus from there."
+    },
+    {
+        "id" : 6,
+        "question" : "Where can I get groceries?"
+        "answer" : "There are two major stores that sell common everyday goods, Kroger and Walmart. There are two Kroger’s in Blacksburg, one next to the Math Empo and one further down Main St. Walmart, however, is in Christiansburg; making much harder to access without a car but is definitely worth if you need items that are not food related. If a student lives on campus and needs something in a pinch, like toothpaste, check out the small market located at Dietrick Hall."
+    },
+    {
+        "id" : 7,
+        "question" : "Who made this app?"
+        "answer" : "All credit goes to Alex Cann, Ahmad Malik, and Ross Manfred."
+    },
+    {
+        "id" : 8,
+        "question" : "What are your sources?"
+        "answer" : "“Academic Forms.” Engineering | Virginia Tech, Virginia Tech, eng.vt.edu/academics/undergraduate-students/academic-forms.html.\n\n“A Guide for Students, Advisors & Faculty.” Curriculum for Liberal Education, 12 June 2019, www.pathways.prov.vt.edu/content/dam/pathways_prov_vt_edu/8pdf/CLE%20Guide%202019-2020.pdf.\n\n “Parking Locations.” Parking and Transportation | Virginia Tech, parking.vt.edu/parking/parking-locations.html.\n\nRhodes, Fiona. “Live Map.” How to Use Live Bus Map, ridebt.org/index.php/2-uncategorised/91-how-to-use-live-bus-map#howtouse.\n\n“Virginia Tech Buildings.” VT Virginia Tech, vt.edu/about/locations/buildings.html.\n\nVirginia Tech Timetable of Classes, banweb.banner.vt.edu/ssb/prod/HZSKVTSC.P_ProcRequest.\n\n"
+    },
+    {
+        "id" : 9,
+        "question" : "Does the subway on campus take HokieP?"
+        "answer" : "Sadly, no."
+    },
+    {
+        "id" : 10,
+        "question" : "I love this app so much, when is the next update out?"
+        "answer" : "Out ream is working really hard to produce the best app for you. You can expect the next update to come out in the next 2 to 3."
+    }
+]

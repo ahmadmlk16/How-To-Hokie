@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "name" : "GobblerFest",
+        "pictureURL" : "https://campuslife.vt.edu/content/campuslife_vt_edu/en/Student_Orgs/gobblerfest/_jcr_content/content/vtcontainer/vtcontainer-content/vtmulticolumn_198736/vt-items_0/adaptiveimage.img.png/1572618215671.png",
+        "date" : "September",
+        "description" : "Gobblerfest is an annual festival intended to engage students in campus activities and connect with the surrounding community while inspiring curiosity, civility and self-understanding. Gobblerfest was conceived in the fall of 2008 as a festival welcoming people to the Blacksburg community. This free event has become a highlight of the start of the academic year.",
+        "learnMore" : "https://campuslife.vt.edu/Student_Orgs/gobblerfest.html"
+    },
+    {
+        "id" : 2,
+        "name" : "Home Coming",
+        "pictureURL" : "https://vtnews.vt.edu/content/dam/vtnews_vt_edu/articles/2013/09/images/093013-dsa-hokiebirdking.jpg",
+        "date" : "October",
+        "description" : "Virginia Tech will celebrate Homecoming with a week of activities for students, alumni, and friends. Start the week with our Campfire Kickoff and don't miss the Homecoming Parade, tailgate, football game, Sankofa events, and more!",
+        "learnMore" : "https://vt.edu/homecoming/schedule.html"
+    },
+    {
+        "id" : 3,
+        "name" : "The Big Event",
+        "pictureURL" : "http://vtbigevent.org/wp-content/uploads/2018/10/2019logo_take2.png",
+        "date" : "April",
+        "description" : "The Big Event at Virginia Tech is a student-run day of service that has grown into the second largest event of its kind in the nation. Every Spring thousands of students and faculty members come together to complete over a thousand community service projects throughout the New River Valley. These projects may include helping to put up a fence to painting someone’s house. ",
+        "learnMore" : "http://vtbigevent.org/"
+    },
+    {
+        "id" : 4,
+        "name" : "Career Fairs",
+        "pictureURL" : "https://career.vt.edu/content/career_vt_edu/en/events/Career-fairs/_jcr_content/content/vtmulticolumn/vt-items_2/adaptiveimage.transform/m-medium/image.jpg",
+        "date" : "Throughout the year",
+        "description" : "Virginia Tech offers a number of career fairs for students to connect with potential employers.Career fairs may be department specific or genernal in nature. Career Fairs are great places to explore the opportunities you have. As a freshman you may aquire about the jobs related to your major and look for potential intership opportunites at these fairs. ",
+        "learnMore" : "https://career.vt.edu/events.html"
+    },
+    {
+        "id" : 5,
+        "name" : "Football Games",
+        "pictureURL" : "https://usatcfn.files.wordpress.com/2016/02/virginia-tech.jpg?w=1000&h=600&crop=1",
+        "date" : "Throughout the year",
+        "description" : "Virginia Tech football games are must go to. Here you will cheer on the hokies. Games at lane stadium are crazy fun! Marked with the legendary enter sandman theme, you will experience one of the most exiting enterences in college football. Buy individual game tickets or a season pass not to miss out!",
+        "learnMore" : "https://hokiesports.com/sports/football/schedule/2019"
+    },
+    {
+        "id" : 6,
+        "name" : "Campus Kitchen Deliverys",
+        "pictureURL" : "https://www.engage.vt.edu/content/engage_vt_edu/en/programs/campus_kitchen/_jcr_content/article-image.transform/m-medium/image.jpg",
+        "date" : "Year Round",
+        "description" : "Help VT for a Campus Kitchen deliverys. You'll assist with picking up food from Dining Services, packing up food in thermal containers, and transporting it to our partners. ",
+        "learnMore" : "https://gobblerconnect.vt.edu/events"
+    },
+    {
+        "id" : 7,
+        "name" : "Virginia Tech Group Exercise",
+        "pictureURL" : "https://i.ytimg.com/vi/U2vskQrE4Pw/maxresdefault.jpg",
+        "date" : "Year Round",
+        "description" : "Join a group of people to exercise and reach your fitness goals! ",
+        "learnMore" : "https://www.recsports.vt.edu/fitnessprograms/groupexercise.html"
+    },
+    {
+        "id" : 8,
+        "name" : "Relay for Life",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/2d5a28a3-405c-4bd2-b53d-2587237c24445b4c0d1b-dbba-402e-b6c8-f1c0be2e21c2.png?preset=w1500",
+        "date" : "April",
+        "description" : "Relay For Life at Virginia Tech is a community-wide, campus-based movement dedicated to eliminating cancer by living out our motto, 'Ut Prosim' (That I May Serve) as we strive to raise money and awareness for the American Cancer Society.",
+        "learnMore" : "https://gobblerconnect.vt.edu/organization/VTRelay"
+    },
+    {
+        "id" : 9,
+        "name" : "Koru Mindfulness Sessions",
+        "pictureURL" : "https://hokiewellness.vt.edu/content/hokiewellness_vt_edu/en/Employees/services/programs/koru/jcr:content/content/adaptiveimage.transform/l-medium/image.jpg",
+        "date" : "Year Round",
+        "description" : "Students and employees are invited to discover the importance of mindfulness at the Koru Mindfulness series. During the series, participants will be introduced to the practice of mindfulness and learn several skills, including meditation for managing stress.",
+        "learnMore" : "https://hokiewellness.vt.edu/Employees/services/programs/koru.html"
+    }
+]

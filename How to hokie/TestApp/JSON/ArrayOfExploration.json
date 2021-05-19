@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 1,
+        "spotName" : "Cascade Falls",
+        "pictureURL" : "https://assets.simpleviewinc.com/simpleview/image/fetch/q_75/https://assets.simpleviewinc.com/simpleview/image/upload/crm/roanoke/Cascade-Falls0_c0c7b90c-5056-a36a-0972ad73a70ce0b4.png",
+        "description" : "This beautiful 3.8-mile trail is highly scenic and is easy to moderate to hike. It took me around 1 hour to hike to the waterfall and 1 hour back. The trail is well marked, and you can get to the falls without GPS help. The trail is not paved so expect to walk over mud and rocks along the way. Once you reach cascade falls you are in for a surprise, the waterfall is beautiful and has a nice shallow pool where the water collects and then runs of from. ",
+        "latitude" : 37.353846,
+        "longitude" : -80.599343,
+        "learnMore" : "https://www.alltrails.com/trail/us/virginia/cascades-falls-trail"
+    },
+    {
+        "id" : 2,
+        "spotName" : "McAfee Knob",
+        "pictureURL" : "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,g_north_west,h_339,q_75,w_610/v1/clients/roanoke/McAfeeKnobHikersSunrise_3f30c373-0678-4265-8133-77a81aff1eeb.jpg",
+        "description" : "This also very beautiful and scenic trail leads high up to a mountain top at around 3,000 feet. This is a moderate to hard trail due to its distance and climb. On the trail you gain around 1,500 feet. It took me 3 hours to hike up and 2 hours to hike back down. On the knob you can over look the valley and many other mountains for a truly beautiful sight. The trail therefore is heavily trafficked on the weekend. I went there in September of 2019. The fallen leaves had made the trail hard to distinguish with the forest floor. I even got lost while climbing up losing a good 30 minutes of time. I therefore recommend keeping a map handy or a charged cellphone.",
+        "latitude" : 37.380225,
+        "longitude" : -80.089543,
+        "learnMore" : "https://www.alltrails.com/trail/us/virginia/mcafee-knob-appalachian-trail"
+    },
+    {
+        "id" : 3,
+        "spotName" : "Dixie Caverns",
+        "pictureURL" : "https://cdn.websites.hibu.com/2ce898948188462381600c009a39659d/dms3rep/multi/mobile/IMG_0478.JPG",
+        "description" : "Take a guided tour of the Dixie Cavers. The tour lasts 45 minutes and costs $14 for adults. The Dixie caverns are very unique. These caverns are up in the mountain which is unusual in that you walk up rather than down. The caverns have been left as natural as possible which allows visitors to experience a true cave.",
+        "latitude" : 37.252599,
+        "longitude" : -80.175127,
+        "learnMore" : "https://www.dixiecaverns.com/"
+    },
+    {
+        "id" : 4,
+        "spotName" : "Bald Knob Trail",
+        "pictureURL" : "https://images.theoutbound.com/uploads/1439935324736/ljz91kv6mfdbcsor/a7ea1e2951c6c3cb868ef90828bfc7dc?w=1200&h=630&fit=crop&auto=format&s=ce8fc8c7932386fad37f5a7627835390",
+        "description" : "Bald Knob Trail is a 0.8 mile lightly trafficked out and back trail located near Newport, Virginia that features a great forest setting. The trail is rated as moderate and is primarily used for hiking, walking, and nature trips. It is a great trail if you donot want to walk for hours as it has a short distance. Plus there is a nice mountain top view to enjoy at the end",
+        "latitude" : 37.350114,
+        "longitude" : -80.537395,
+        "learnMore" : "https://www.alltrails.com/explore/trail/us/virginia/bald-knob-trail--3"
+    },
+    {
+        "id" : 5,
+        "spotName" : "Coal Mining Heritage Park",
+        "pictureURL" : "https://images.theoutbound.com/2018/07/13/03/4c75a137cd005d1022e0812f900a9db9?w=1200&h=630&fit=crop&auto=format&s=18d683a0a6d7f5da5ecd5060bc112201",
+        "description" : "Coal Mining Heritage Park Loop Trail is a 1.5 mile loop trail located near Blacksburg, Virginia that features a river and is good for all skill levels. The trail is primarily used for walking and nature trips. This is a great trail where you will not be climbing or walking over rocks and such. Go here to enjoy nature without the strain",
+        "latitude" : 37.187178,
+        "longitude" : -80.426694,
+        "learnMore" : "https://www.alltrails.com/explore/trail/us/virginia/coal-mining-heritage-park-loop-trail"
+    },
+    {
+        "id" : 6,
+        "spotName" : "Heritage Trail",
+        "pictureURL" : "https://www.orangecountygov.com/ImageRepository/Document?documentId=10109",
+        "description" : "Gorgeous park in the day. Water features, trees and sprawling paths. The park is extremely large and covers lots of different terrain ( hills, flat, etc) great for running or jogging.",
+        "latitude" : 37.237677,
+        "longitude" : -80.460383,
+        "learnMore" : "https://www.blacksburg.gov/Home/Components/FacilityDirectory/FacilityDirectory/54/80"
+    },
+    {
+        "id" : 7,
+        "spotName" : "Hethwood Pond",
+        "pictureURL" : "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/74375553_10162638579460061_5603915663866331136_o.jpg?_nc_cat=109&_nc_ohc=uIS32rYE02EAQnbJooLT_lc1mR1eQMRfboupFVRMFLgHdQewxRtYIkAOg&_nc_ht=scontent-iad3-1.xx&oh=250354b51ff22ff70ddbef43f2dfd985&oe=5E86F987",
+        "description" : "Super nice place to unwind and relax along the Huckleberry trail. Come here often to rest in the gazebo after riding the trail from Christiansburg. Very beautiful well maintained park right off Heather drive and near Prices Fork. Geese and ducks love the pond as well. A great place for a photo shoot too.",
+        "latitude" : 37.219951,
+        "longitude" : -80.447923,
+        "learnMore" : "https://www.facebook.com/pages/Hethwood-Pond-Park/1652055014819614"
+    },
+    {
+        "id" : 8,
+        "spotName" : "Falls Ridge Preserve",
+        "pictureURL" : "https://media2.trover.com/T/558785a5198e446ac7001b6b/fixedw_large_4x.jpg",
+        "description" : "Very fun park!! The silver trail is where all the action is at (0.8 mi roundtrip). It has nice views of the water falls and cuts right in front of several mini caves. Checking out the caves requires a little bit of finagling your way through rocks at an incline.",
+        "latitude" : 37.189238,
+        "longitude" : -80.320482,
+        "learnMore" : "https://www.visitroanokeva.com/listings/falls-ridge-preserve/8953/"
+    },
+    {
+        "id" : 9,
+        "spotName" : "Pandapas Pond",
+        "pictureURL" : "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.michaelspeed.com%2Fp335578927%2Fh2B1F06FB&psig=AOvVaw2ZvmmR2RoQFQOgio6GFSxQ&ust=1575692138420000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC5k-SUoOYCFQAAAAAdAAAAABAD",
+        "description" : "Close and easily accessible pond with many trails for hiking, mountain biking, and horse riding surrounding it. Easy close parking. Lots of geese like to hang out by the pond which can be a nuisance, however if you don't bother them they won't bother you.",
+        "latitude" : 37.282317,
+        "longitude" : -80.468336,
+        "learnMore" : "https://www.virginia.org/Listings/OutdoorsAndSports/PandapasPond/"
+    },
+    {
+        "id" : 10,
+        "spotName" : "Stiles Falls",
+        "pictureURL" : "https://cdn-assets.alltrails.com/uploads/photo/image/21241355/extra_large_68be337e5d6d45f90a771ba0db5bc28f.jpg",
+        "description" : "Wonderful scenic hike, great for small children though the trail is moderate difficulty just before the waterfall. The hike is actually 6 miles total including a one mile walk from the parking lot to the trailhead. Walk the along the flat gravel road which passes through the camp before reaching a beautiful valley with a yellow house at the far end.",
+        "latitude" : 37.081553,
+        "longitude" : -80.265489,
+        "learnMore" : "https://www.visitroanokeva.com/listings/stiles-falls/8952/"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Visit The Duck Pond",
+        "pictureURL": "https://media.glassdoor.com/l/c1/e9/4e/2c/duck-pond.jpg",
+        "description": "The duck pond providers a scenic spot on Virginia Techs crowded campus. Go to the duck pond gazebo to hang out with you friends or take a stroll around the path and see the ducks and sometimes otters!"
+    },
+    {
+        "id": 2,
+        "name": "Visit The Hahn Horticulture Garden and Pavilion",
+        "pictureURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGOvqPTTc9tez8e_YnKTdSSAHxLCiMdL3rCSNXQRxsO0KJBJcx",
+        "description": "Hahn garden is beautiful. The garden features perennial borders, water gardens, shade gardens, a meadow garden, and the Peggy Lee Hahn Garden Pavilion. This is a nice place to take a stroll on a date."
+    },
+    {
+        "id": 3,
+        "name": "Hang Out In The Drill Field",
+        "pictureURL": "https://vt.edu/content/vt_edu/en/about/locations/buildings/drillfield/_jcr_content/content/adaptiveimage_1455662663875.transform/m-medium/image.jpg",
+        "description": "The Drill Field is a great place to hangout with friends. Put up a hammock amongst the trees or lay on the grass. Play catch or frisbee or just hangout. The drill field is also a great place to socialize with new people hanging out. There are a lot of clubs and activities always going on at the drill field where you can socialize or get involved."
+    },
+    {
+        "id": 4,
+        "name": "Exercise At War Memorial Hall",
+        "pictureURL": "https://www.recsports.vt.edu/content/dam/recsports_vt_edu/facilities/VT35118_20110242-19.jpg.transform/xl-medium/image.jpg",
+        "description": "War Memorial Hall houses one of the gyms on campus as well as Recreational Sports administrative offices for intramural sports and sport clubs. War memorial hall features a weight training area, pool, various courts, saunas and much more. War memorial hall is usually busier then McComas hall. "
+    },
+    {
+        "id": 5,
+        "name": "Dive Into Books In Newman Library",
+        "pictureURL": "https://vt.edu/content/vt_edu/en/about/locations/buildings/newman-library/_jcr_content/content/adaptiveimage_1455662715201.transform/m-medium/image.jpg",
+        "description": "Visit the library to borrow a book or digital media. Read or study in the library. Weather you prefer doing so in groups or all alone in silence or in a talking crowd, you can find that all in Newman Library. Other than books you can also rent college textbooks for an hourly basis. On the many floors of the library you will find tables, desks, sofas and chairs where you can reed with fiends or kick it alone. If you need to really channel that brain power in silence head to the fifth floor for cubbies."
+    }
+]

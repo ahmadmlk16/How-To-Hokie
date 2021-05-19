@@ -1,0 +1,123 @@
+[
+    {
+        "id" : 1,
+        "name": "Academic Undergraduate Research Association",
+        "pictureURL" : "https://se-infra-cdn-images.azureedge.net/documents/43/a10624cb-d76a-4e53-9348-08d72d7d0869/1500.jpg",
+        "type": "Academic",
+        "purpose" : "The Academic Competition Organization at Virginia Tech (ACO-VT) is an academic team that participates in intercollegiate Quizbowl competitions and hosts high school and collegiate competitions. Along with our competition season, ACO-VT strives to make Quizbowl more accessible at both the high school and collegiate level and to have fun!",
+        "contactEmail" : "aliarw@vt.edu",
+        "contactPhone" : "(703) 727-2104",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/aco-vt",
+        "website" : "https://sites.google.com/a/vt.edu/vtaco/"
+    },
+    {
+        "id" : 2,
+        "name": "Animal Hope Alliance",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/b9644c7f-7561-4e21-8e3d-e68c488443183bff3bb3-93a5-4467-9364-4cd67110a14d.jpg?preset=w1500",
+        "type": "Advocacy & Awareness",
+        "purpose" : "The mission of the Animal HOPE Alliance Student Chapter is to volunteer our time to fundraise and care for lost, abandoned, unwanted, neglected, ill, injured, or abused companion animals. We will use the profits we raise to spay/neuter and provide food and other necessities for all animals in need. We will do our best to place helpless animals in permanent and loving homes.",
+        "contactEmail" : "nobleha@vt.edu",
+        "contactPhone" : "(703) 424-1541",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/aha",
+        "website" : ""
+    },
+    {
+        "id" : 3,
+        "name": "Filmmakers Club",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/8e364956-2d3d-4a33-8def-c0688960a90248ecfad7-17c3-4071-9c21-222eb507ad5c.jpg?preset=w1500",
+        "type": "Arts & Entertainment",
+        "purpose" : "he Filmmakers Club aims to produce a variety of high quality live-action short films.  With luck, they have the potential to turn out great and we can enter into various film festivals, but our number one goal is just having a good time!  We welcome all ideas and have some great movies come out every year",
+        "contactEmail" : "haustin2@vt.edu",
+        "contactPhone" : "(540) 250-1024",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/filmmakers",
+        "website" : "https://www.youtube.com/channel/UCpSY-ZhBlCaHZhwOOgljNnw"
+    },
+    {
+        "id" : 4,
+        "name": "Student Government Association",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/a619d78e-85ec-4154-89f9-0d65fb446fd1b036f667-73da-4010-91e7-12a12970f867.jpg?preset=w1500",
+        "type": "Campus Spirit & Concerns",
+        "purpose" : "The Student Government Association was established by the Student Body of Virginia Polytechnic Institute and State University in order to provide an effective organization for the administration of student activities, to promote academic freedom and academic responsibility, to establish and protect student rights, to foster awareness of the student's position in the campus, local, state, and national communities, and to provide a liaison between the student body, faculty, and administration. The Membership of the Student Government Association consists of all enrolled undergraduate students who have paid the student Activities Fee at Virginia Polytechnic Institute and State University. The SGA is comprised of three (3) branches: Executive, Legislative, and Judicial.",
+        "contactEmail" : "sga@vt.edu",
+        "contactPhone" : "(540) 231-8631",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/sga",
+        "website" : "https://www.sga.vt.edu/"
+    },
+    {
+        "id" : 5,
+        "name": "African Students Association",
+        "pictureURL" : "https://se-infra-cdn-images.azureedge.net/documents/43/58f9b55b-9bd6-4b08-c544-08d731f126c7/1500.png",
+        "type": "Cultural & International",
+        "purpose" : "The African Students Association - Virginia Tech Chapter is a non-exclusive, cultural, social, and educational body geared towards serving the community and promoting unity and cultural awareness between all who find interest in Africa and its diaspora.",
+        "contactEmail" : "asa.virginiatech@gmail.com",
+        "contactPhone" : "",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/asavt",
+        "website" : "https://asavirginiatech.wixsite.com/vtasa"
+    },
+    {
+        "id" : 6,
+        "name": "Baja SAE",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/28dc37ca-960a-4b80-91a6-4c05860305fb7a7addd8-e30b-4c58-9125-3539bee75bc3.jpg?preset=med-sq",
+        "type": "Enthusiasts & Special Interests",
+        "purpose" : "The Baja team at Virginia Tech particiaptes in a national competition to design, build, and test a single seat off-road vehicle to compete in informal and SAE sanctioned events. The team is a Mechanical Engineering Senior Design Project, counting as credit for the Senior Capstone Design. Opportunites for other majors to receive credit are available. We welcome any students who would like to participate as volunteers, especially younger Mechanical Engineers who could gain experience before officially joining the team for the senior design aspect.",
+        "contactEmail" : "VTBaja@gmail.com",
+        "contactPhone" : "",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/bajasae",
+        "website" : "https://vtbaja.wixsite.com/vtbaja"
+    },
+    {
+        "id" : 7,
+        "name": "Alpha Delta Pi",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/0d401e11-95c9-4207-b496-9633c3cbe9177b5d9492-3776-4c09-913e-4893c9a9c694.png?preset=w1500",
+        "type": "Fraternity & Sorority Life (Female)",
+        "purpose" : "The Eta Pi chapter of Alpha Delta Pi was founded at Virginia Tech in 1990. Alpha Delta Pi is a member of the National Panhellenic Conference with headquarters in Atlanta, GA. Alpha Delta Pi has over 155 active chapters and has more than 220,000 collegiate members nation wide.",
+        "contactEmail" : "president.vtadpi@gmail.com",
+        "contactPhone" : "(703) 994-8086",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/alphadeltapi",
+        "website" : "https://vtadpi.squarespace.com/"
+    },
+    {
+        "id" : 8,
+        "name": "Alpha Sigma Phi",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/d65efa8c-5d2a-4b78-ad91-6bea71508c3618d085d2-3429-4017-be63-8853379ceaf7.png?preset=w1500",
+        "type": "Fraternity & Sorority Life (Male)",
+        "purpose" : "We study. We serve. We play. We support. We lead. We follow. We participate. We are loyal. We are driven. We are confident. We are influential. We are role models. We are students. We are friends. We are Brothers. We are Alpha Sigma Phi Fraternity.",
+        "contactEmail" : "dfales98@vt.edu",
+        "contactPhone" : "(804) 814-9580",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/alphasigmaphi",
+        "website" : "http://vtasp.com/"
+    },
+    {
+        "id" : 9,
+        "name": "Gamma Beta Phi Honor Society",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/62cb433c-c2c9-48e2-9878-d6d8a2ca5f1c95f974c0-19e9-4fa5-833e-c2a07b240c94.gif?preset=med-sq",
+        "type": "Honor Society",
+        "purpose" : "Gamma Beta Phi is an academic and honor society with over 78 chapters across the US. Membership requirements include a 3.4 GPA and ten service hours completed per semester. Invitations to join Gamma Beta Phi are sent out every spring, contingent upon a student's GPA. (Please note that we are NOT affiliated with Greek life, and are not a sorority or fraternity.)",
+        "contactEmail" : "GBPatVT@gmail.com",
+        "contactPhone" : "",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/gammabetaphi",
+        "website" : "https://www.gammabetaphi.org/"
+    },
+    {
+        "id" : 10,
+        "name": "Gaming Project at Virginia Tech",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/9f6c7728-853d-4c43-99a0-5e330ab5825e42918b26-38eb-49e7-a6d1-311b9bd42a03.png?preset=med-sq",
+        "type": "Hobbies & Interests",
+        "purpose" : "The Gaming Project as Virginia Tech involves various aspects of design and development of computer and video games.  The club is for anyone with general interest in game design, and members can learn about programming and computer art in the creation of a game.  We currently have several groups that each work on their own game project, as well as some that work individually.  Members can choose whatever work interests them most, and the club provides a forum to share work and ideas.  Whether you want to learn more about the process developing games, game programming, computer art, or are just interested in games, the Gaming Project at Virginia Tech has many opportunities for you.",
+        "contactEmail" : "dbrocato@vt.edu",
+        "contactPhone" : "(267) 885-6697",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/gamingprojectatvt",
+        "website" : ""
+    },
+    {
+        "id" : 11,
+        "name": "Building Goodness Foundation at Virginia Tech",
+        "pictureURL" : "https://se-infra-imageserver2.azureedge.net/clink/images/e763b713-1b8f-4cef-9b73-dca69a5702903f362346-c0c1-4cb3-92eb-bf3df50fc561.png?preset=w1500",
+        "type": "Service & Charity",
+        "purpose" : "We are a non-profit construction service organization, specializing in large scale mission based projects. Our primary markets are assisting other non-profit organizations by providing construction based support. We pair industry professionals with passionate volunteers to provided struggling non-profits with a new or renovated space. ",
+        "contactEmail" : "daniek2@vt.edu",
+        "contactPhone" : "",
+        "gobblerConnect" : "https://gobblerconnect.vt.edu/organization/bgfvt",
+        "website" : "https://www.buildinggoodness.org/"
+    }
+]

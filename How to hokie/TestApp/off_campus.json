@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "name" : "Cabo Fish Taco",
+        "rating": 4.5,
+        "latitude": 37.228874,
+        "longitude" : -80.413169,
+        "pictureURL" : "https://lh5.googleusercontent.com/p/AF1QipMXffvgyzqjwmQH7u4-TVKM2oB66TkLg0Ly4ZTc=w408-h306-k-no",
+        "description" : "A favorite of students here on campus they are known for there, well, fish tacos. It is fairly close to campus and a good place to hangout and get tacos and other mexican food if you would like",
+        "site": "https://cabofishtaco.com"
+    },
+    {
+        "id" : 2,
+        "name" : "622 North",
+        "rating": 4.4,
+        "latitude": 37.234593,
+        "longitude" : -80.419377,
+        "pictureURL" : "https://lh5.googleusercontent.com/p/AF1QipOkNbKmYoZs5d6JjImJxptl-UueI8VSmcWWvqi2=w203-h152-k-no",
+        "description" : "A restaurant/bar with a nice formalish dining area attached to a bar. They serve a variety of food from charcuterie boards to burgers and fries. This place is a personal favorite for me and is a place to go for special occasions and late night drinks",
+        "site": "https://622north.com"
+    },
+    {
+        "id" : 3,
+        "name" : "Gillie's",
+        "rating": 4.5,
+        "latitude": 37.230106,
+        "longitude" : -80.416053,
+        "pictureURL" : "https://lh5.googleusercontent.com/p/AF1QipPFiKivDk0XMS3PFfdVOKl5XahNkZyu3HeHAFWO=w408-h306-k-no",
+        "description" : "This place is popular for breakfast and is situated close to campus. This is a good place for vegetarian cuisine but it also has seafood items on the menu. It can get quite busy sometimes.",
+        "site": ""
+    },
+    {
+        "id" : 4,
+        "name" : "Top of the Stairs",
+        "rating": 4.1,
+        "latitude": 37.229729,
+        "longitude" : -80.416330,
+        "pictureURL" : "https://lh5.googleusercontent.com/p/AF1QipPvBfljaUgAf81Et_R4fHAmiGI7pthuE70Q4LdK=w408-h544-k-no",
+        "description" : "One of the closest bars to campus that still offers a nice atmosphere even if you cannot drink. They serve good American food such as BBQ and tater tots. This is also a place many tourists go to to take pictures with a neon light flag outside.",
+        "site" : "https://www.topofthestairs.com/"
+    },
+    {
+        "id" : 5,
+        "name" : "Benny Marzano's",
+        "rating": 4.6,
+        "latitude": 37.229483,
+        "longitude" : -80.415270,
+        "pictureURL" : "https://lh5.googleusercontent.com/p/AF1QipNOgoDYrJdNpQLSkY2X_rr2u-siPyK1MI1AS_IP=w408-h306-k-no",
+        "description" : "Benny Marzanos is known for serving some of the largest pizza slices around. This place is the original location of a pizza restaurant chain that stays open very late for primarily student customers. It is a must have if you are a student here.",
+        "site" : "https://bennysva.com"
+    },
+    {
+        "id" : 6,
+        "name" : "PK's Bar and Grill",
+        "rating": 4.3,
+        "latitude": 37.232188,
+        "longitude" : -80.416188,
+        "pictureURL" : "//geo3.ggpht.com/cbk?panoid=cr_4hFkCQ7b0qIJMf-sLJA&output=thumbnail&cb_client=maps_sv.tactile.gps&thumb=2&w=203&h=100&yaw=42.63028&pitch=0&thumbfov=100",
+        "description" : "Nice restaurant a little off campus with options like soup, sandwiches/burgers, wings, salad, and pizza. This is a nice place to bring a group of people too for food that can come out relatively quick.",
+        "site" : "https://pksbarandgrill.com"
+    },
+    {
+        "id" : 7,
+        "name" : "Spicity",
+        "rating": 4.3,
+        "latitude": 37.234782,
+        "longitude" : -80.421817,
+        "pictureURL" : "https://lh5.googleusercontent.com/p/AF1QipMSV8WEcVXDYeptQF7f81Qyw2E6rGkj-UIEnbFg=w203-h152-k-no",
+        "description" : "Nicer restaurant for asian food off campus. It's a great place to try with a nice variety of food and drinks to try and enjoy",
+        "site" : "http://www.spicityva.com/index.php/home"
+    }
+]
